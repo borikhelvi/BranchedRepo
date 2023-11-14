@@ -1,4 +1,4 @@
-# This is my First Branched Repo via feature1
+# This is my First Branched Repo
 
 <br>
-but its the third one i'm uploading to Remote Space from the Local Space <b>via feature1</b>.
+but its the third one i'm uploading to Remote Space from the Local Space.
